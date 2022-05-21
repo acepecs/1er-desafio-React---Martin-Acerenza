@@ -1,5 +1,6 @@
 
 import './App.css';
+<<<<<<< HEAD
 import Navbar from './Components/Navbar';
 import Products from './Components/Products';
 import ItemListContainer from './Components/ItemListContainer';
@@ -25,6 +26,16 @@ const App = () => {
       Formas de pago
     </div>
     </>
+=======
+import Navbar from './Navbar';
+
+const App = () => {
+  return (
+    <div className="App">
+      <Navbar></Navbar>
+      Hola Mundo!!
+    </div>
+>>>>>>> 7eabb4d82c3be7ce09ac194579835e072db3e8f2
   );
 }
 

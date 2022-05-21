@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "clase-4-react",
+=======
+  "name": "granja-organica",
+>>>>>>> 7eabb4d82c3be7ce09ac194579835e072db3e8f2
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -7,7 +11,10 @@
     "@testing-library/react": "^13.2.0",
     "@testing-library/user-event": "^13.5.0",
     "bootstrap": "^5.1.3",
+<<<<<<< HEAD
     "bootstrap-icons": "^1.8.2",
+=======
+>>>>>>> 7eabb4d82c3be7ce09ac194579835e072db3e8f2
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
     "react-scripts": "5.0.1",
