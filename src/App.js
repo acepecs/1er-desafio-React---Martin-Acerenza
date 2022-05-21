@@ -12,7 +12,7 @@ const App = () => {
      <h1>Granja organica</h1>
      <hr/>
      <Navbar></Navbar>
-     <ItemListContainer></ItemListContainer>
+     <ItemListContainer greeting='Hola usuario'></ItemListContainer>
     </div>
     <h2>
       Productos 
